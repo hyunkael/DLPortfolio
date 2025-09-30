@@ -1,0 +1,26 @@
+# Jupyter Book and dependencies
+jupyter-book>=0.15.1
+sphinx>=5.0
+sphinx-book-theme>=1.0.0
+sphinx-design>=0.5.0
+myst-nb>=0.17.0
+myst-parser>=0.18.0
+
+# Scientific computing and visualization
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Deep learning frameworks (optional, add as needed)
+# tensorflow>=2.13.0
+# torch>=2.0.0
+# keras>=2.13.0
+
+# Jupyter and notebook tools
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
+
+# Additional utilities
+ghp-import>=2.1.0  # For GitHub Pages deployment
