@@ -10,6 +10,16 @@ chapters:
     sections:
       - file: labs/lab1
         title: Laboratory Task 1 - Data Analytics Fundamentals
+      - file: labs/lab2
+        title: Laboratory Task 2 - Neural Networks
+      - file: labs/lab3
+        title: Laboratory Task 3 - Deep Learning Concepts
+      - file: labs/lab4
+        title: Laboratory Task 4 - Advanced Topics
+      - file: labs/lab5
+        title: Laboratory Task 5 - Model Optimization
+      - file: labs/lab6
+        title: Laboratory Task 6 - Final Project
   
   - file: exercises/index
     title: Exercises
